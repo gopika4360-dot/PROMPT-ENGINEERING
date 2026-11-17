@@ -709,5 +709,6 @@ To turn the knowledgeable model into an assistant, it undergoes Supervised Fine-
 
 Even after fine-tuning, a model might give answers that are technically correct but overly wordy, evasive, or subtly unsafe. Reinforcement Learning from Human Feedback (RLHF) fixes this. Human reviewers rank various model outputs, and a separate "reward model" learns these human preferences. The LLM is then optimized to maximize this reward score.
 
-* **The Result:** The model learns "taste" and alignment. It figures out what humans actually prefer—adjusting its tone to be helpful, safe, and conversational.
-# Result
+### Result: 
+    The model learns "taste" and alignment. It figures out what humans actually prefer—adjusting its tone to be helpful, safe, and conversational.
+
